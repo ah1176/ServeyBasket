@@ -1,0 +1,11 @@
+@Survey Basket_HostAddress = https://localhost:7027
+
+
+GET {{Survey_Basket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Survey Basket_HostAddress}}/api/polls
+
+###
